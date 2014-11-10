@@ -1,0 +1,56 @@
+body {
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    margin: 0;
+    /*width: 100%;*/
+    /*background: url('flappy-bg.png') repeat;*/
+    background-color: #E24D4A;
+}
+#header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+#cca {
+    float: right;
+}
+#header p{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+#header a{
+    text-decoration: none;
+}
+#header h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 46px;
+    display: inline;
+}
+#name {
+    float: left;
+    display: inline;
+}
+#footer {
+    height: 40px;
+}
+#footer p{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    padding: 20px;
+    padding-left: 15%;
+    margin: 0;
+}
+#game {
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
